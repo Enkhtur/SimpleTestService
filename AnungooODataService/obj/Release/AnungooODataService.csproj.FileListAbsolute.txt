@@ -27,3 +27,9 @@ C:\Users\enkhtur.e\Documents\GitHub\Anungoo\AnungooODataService\bin\ja\DevExpres
 C:\Users\enkhtur.e\Documents\GitHub\Anungoo\AnungooODataService\bin\ru\DevExpress.Xpo.v13.2.resources.dll
 C:\Users\enkhtur.e\Documents\GitHub\Anungoo\AnungooODataService\obj\Release\AnungooODataService.dll
 C:\Users\enkhtur.e\Documents\GitHub\Anungoo\AnungooODataService\obj\Release\AnungooODataService.pdb
+C:\temp\AnungooODataService.dll.config
+C:\temp\AnungooODataService.dll
+C:\temp\AnungooODataService.pdb
+C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Release\AnungooODataService.csprojResolveAssemblyReference.cache
+C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Release\AnungooODataService.dll
+C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Release\AnungooODataService.pdb
