@@ -47,14 +47,8 @@ C:\Users\enkhtur.e\Documents\GitHub\Anungoo\AnungooODataService\obj\Debug\Anungo
 C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\AnungooODataService.dll.config
 C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\AnungooODataService.dll
 C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\AnungooODataService.pdb
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\Microsoft.Data.Edm.dll
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\Microsoft.Data.OData.dll
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\Microsoft.Data.Services.Client.dll
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\Microsoft.Data.Services.dll
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\bin\System.Spatial.dll
 C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Debug\AnungooODataService.dll
 C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Debug\AnungooODataService.pdb
 C:\temp\AnungooODataService.dll.config
 C:\temp\AnungooODataService.dll
 C:\temp\AnungooODataService.pdb
-C:\Users\enkhtur.e\Documents\GitHub\SimpleTestService\AnungooODataService\obj\Debug\AnungooODataService.csprojResolveAssemblyReference.cache

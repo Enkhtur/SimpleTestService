@@ -15,7 +15,7 @@ namespace AnungooODataService.Anungoo
 {
     public static class ConnectionHelper
     {
-        public const string ConnectionString = @"XpoProvider=MSSqlServer;Data Source=6456d47d-0f28-4ba5-a61a-a303008548e4.sqlserver.sequelizer.com;Initial Catalog=db6456d47d0f284ba5a61aa303008548e4;UID=qabrlqdfimzlmmao;PWD=WS8pYqUT6EPAvEwwTEkmpSNo6x46wqcJEq8JPCWwpsS57NZWhGR7tWsddTsAvWvP;";
+        public const string ConnectionString = @"XpoProvider=MSSqlServer;Data Source=feb37b8b-660a-4677-8aff-a3060014027b.sqlserver.sequelizer.com;Initial Catalog=dbfeb37b8b660a46778affa3060014027b;UID=arspuzoljbkwzkak;PWD=g3ytScgJjeiPAxdVgGeeCEsvqoUspXzAXhosT8S6JhzSVZ778LWvu45HHccDqVuu;";
         public static void Connect(DevExpress.Xpo.DB.AutoCreateOption autoCreateOption)
         {
             XpoDefault.DataLayer = XpoDefault.GetDataLayer(ConnectionString, autoCreateOption);
